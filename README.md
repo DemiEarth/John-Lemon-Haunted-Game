@@ -1,2 +1,5 @@
 # John-Lemon-Haunted-Game
-John Lemon's Haunted Jaunt game for DIG3480! Members: Angelina Polidoro, Aidan Hurley, Leila Busa, and Taylor Kennedy
+- Angelina Polidoro - Major Script Addition
+- Aidan Hurley - Minor Script Addittion
+- Leila Busa - Second Half of Unity Build
+- Taylor Kennedy - First Half of Unity Build
